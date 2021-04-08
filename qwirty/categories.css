@@ -1,0 +1,28 @@
+
+.categories {
+    display: flex;
+    flex: 0 0 256px;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+.categories > a {
+    text-decoration: none;
+    margin-bottom: 10px;
+    padding: 20px;
+    color: white;
+    font-family: "dosis";
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #4b14ab;
+    width: 200px;
+    border: 1px solid #22094E;
+}
+
+
+.categories>a:hover {
+    background-color: #22094E;
+    box-shadow: 0 2px 5px -2px black;
+}
