@@ -1,0 +1,140 @@
+.body {
+    background-color: lightpink;
+}
+
+
+header * {
+    background-color: #F08080;
+    position: fixed;
+    width: 100%;
+    
+}
+
+ .name {
+    font-size: 60px;
+    font-family: "comfortaa";
+    color: beige;
+    top: 0;
+    left: 0;
+    padding: 14px 16px;
+    background-color: #f77170;
+    float: left;
+
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #f77170;
+}
+
+ 
+    
+
+.link {
+    color: beige;
+    top: 0;
+    font-size: 60px;
+    float: right;
+    text-align: right;
+    padding: 14px 16px;
+    font-family: "comfortaa";
+  
+}
+
+a.link:hover {
+    color: gray;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #f77170;
+    text-align: center;
+    overflow: auto;
+
+  }
+
+  .img_container {
+    width: 50px;
+    height: 50px;
+    color: beige;
+    font-size: 40px;
+    display: inline;
+  }
+
+
+.h1 {
+    text-align: center;
+    font-weight: 0px;
+}
+
+  .h2 {
+      text-align: center;
+      font-family: "roboto";
+      margin: 0;
+      font-size: 20px;
+      font-style: oblique;
+      
+      
+  }
+
+  .h3 {
+      font-size: 20px;
+      text-align: center;
+      margin-right: 0px;
+      font-family: "roboto";
+  }
+
+ 
+
+  .p {
+      text-align: right;
+      margin: 0%;
+      font-family: "roboto";
+      font-size: 20px;
+      float: right;
+      border-bottom: black;
+  }
+
+  div.fashion {
+      text-align: right;
+      font-family: "roboto";
+      margin: 0%;
+      font-size: 20px;
+  }
+  .left {
+      padding: 20px;
+      background-color: #00b3b3;
+      margin: 20px;
+      box-shadow: 10px 10px 5px grey;
+      text-align: center;
+      font-family: "roboto";
+      font-size: 20px;
+
+         }
+
+.right {
+    padding: 20px;
+    background-color: #008080;
+    margin: 20px;
+    box-shadow: 10px 10px 5px grey;
+    text-align: center;
+    font-family: "roboto";
+    font-size: 20px;
+}
+
+
+
+  
+      
+
+    
+
+
+
+
+
+
+ 
+   
