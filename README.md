@@ -1,4 +1,4 @@
-# Fullstack-Projects 👩🏼‍💻 
+# Fullstack-Projects 👩🏼‍💻 💬
 
 Project 1️⃣ - Personal Site <br>
 Project 2️⃣ - Qwirty <br>
