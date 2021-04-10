@@ -8,5 +8,6 @@ Project 5️⃣ - TODO.APP <br>
 Project 6️⃣ - The Arcade <br>
 Project 7️⃣ - User Hub <br>
 Project 8️⃣ - Harvard Art // 🚫 Private <br>
-Project 9️⃣ - Stranger's Things
+Project 9️⃣ - Stranger's Things <br>
+Project 🔟 - DevJobz
 
